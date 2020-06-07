@@ -1,5 +1,3 @@
-# run_analysis.R
-
 #0. prepare LIBs
 library(reshape2)
 
